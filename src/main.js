@@ -24,5 +24,6 @@ let keyF, keyR, keyLEFT, keyRIGHT, keyUP, keyA, keyD, keyW, keyS;
 //4. sitmulataneous two-player mode: 30 (in the menu, press UP arrow to start two player modes, the second player can use WAD key to move and S key to fire)
 //5. Create a new title screen: 10
 //6. succesfuly hit times: 20
+//7. Redesign theme, title screen, artwork(Spackeship and rockets), border, and all sound effects: 60
 //In two players mode, google chrome is lag when rocket hits multiply spaceship in short time
-//totall: 110
+// total: should be more than 100
