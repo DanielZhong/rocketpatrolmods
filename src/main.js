@@ -27,3 +27,7 @@ let keyF, keyR, keyLEFT, keyRIGHT, keyUP, keyA, keyD, keyW, keyS;
 //7. Redesign theme, title screen, artwork(Spackeship and rockets), border, and all sound effects: 60
 //In two players mode, google chrome is lag when rocket hits multiply spaceship in short time
 // total: should be more than 100
+
+//cite:
+//https://www.soundsnap.com - downloaded few sound effects and remodified them
+//google pictures - downloaded copyright free pictures and remodified them

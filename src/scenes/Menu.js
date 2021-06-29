@@ -44,7 +44,7 @@ class Menu extends Phaser.Scene {
         
         // show menu text
         this.add.text(game.config.width/2, game.config.height/2-120 - borderUISize - borderPadding, 'Hero Shooting', menuConfig).setOrigin(0.5);
-        this.add.text(game.config.width/2, game.config.height/2, 'Press ← for Novice  → for Expert  ↑ for two players mode', instructionConfig).setOrigin(0.5);
+        this.add.text(game.config.width/2, game.config.height/2, '← = Novice mode | → = Expert mode | ↑ = two players mode', instructionConfig).setOrigin(0.5);
         this.add.text(game.config.width/2, game.config.height/2 +100, 'P1: Use ←↑→ arrows to move & (F) to fire', instructionConfig).setOrigin(0.5);
         this.add.text(game.config.width/2, game.config.height/2 +100 + borderUISize + borderPadding, 'P2: Use WAD arrows to move & (S) to fire', instructionConfig).setOrigin(0.5);
         
